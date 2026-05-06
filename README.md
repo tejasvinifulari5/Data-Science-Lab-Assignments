@@ -26,8 +26,6 @@ This repository contains a comprehensive collection of my **second-year Data Sci
 
 ![Boxplot](https://via.placeholder.com/500x300?text=Boxplot+Preview)
 
-> ⚠️ Replace these placeholder images with your actual notebook screenshots.
-
 ---
 
 ## 📚 Objectives
