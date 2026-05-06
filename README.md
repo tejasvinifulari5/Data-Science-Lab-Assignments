@@ -20,7 +20,8 @@ This repository contains a comprehensive collection of my **second-year Data Sci
 
 ### 📊 Histogram (Fare Distribution)
 
-![Histogram](https://via.placeholder.com/500x300?text=Histogram+Preview)
+![Histogram](https://via.<img width="760" height="561" alt="image" src="https://github.com/user-attachments/assets/79b76d91-968c-41cf-991e-7e90a2f152ee" />
+.com/500x300?text=Histogram+Preview)
 
 ### 📦 Boxplot (Age vs Gender vs Survival)
 
