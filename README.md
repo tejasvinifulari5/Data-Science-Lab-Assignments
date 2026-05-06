@@ -25,7 +25,7 @@ This repository contains a comprehensive collection of my **second-year Data Sci
 
 ### 📦 Boxplot (Age vs Gender vs Survival)
 
-![Boxplot](https://via.placeholder.com/500x300?text=Boxplot+Preview)
+<img width="951" height="590" alt="image" src="https://github.com/user-attachments/assets/d8f9ff52-d88a-4087-873f-f27875c8e582" />
 
 ---
 
